@@ -78,16 +78,22 @@ The model was evaluated on early, mid, and late innings scenarios. In most cases
 
 1. Clone the Repository
 
+```
 git clone https://github.com/your-username/IPL-Score-Prediction.git
 cd IPL-Score-Prediction
+```
 
 2. Install required libraries (if needed)
 
+```
 pip install pandas scikit-learn matplotlib seaborn
+```
 
 3. Open and run the notebook:
 
+```
 jupyter notebook Final_Code.ipynb
+```
 
 4. The notebook includes:
 
